@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/gauravroy021" target="blank"><img src="https://img.shields.io/twitter/follow/gauravroy021?logo=twitter&style=for-the-badge" alt="gauravroy021" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, Sql, Mongo Db, and node.js**
+- 🌱 I’m currently learning **Mern Stack**
 
 - 💬 Ask me about **react,Java, JavaScript**
 
