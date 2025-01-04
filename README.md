@@ -12,6 +12,8 @@
 - 🌱 I’m currently learning **Mern Stack**
 
 - 💬 Ask me about **react,Java, JavaScript**
+  
+- 🏗️🚀 Trying to Build Something from scratch
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
