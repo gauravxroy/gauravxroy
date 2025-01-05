@@ -77,4 +77,11 @@
 </div>
 
 
+# My Project
+
+Welcome to my project!
+
+<!-- LOC_START -->
+Total Lines of Code: To be calculated
+<!-- LOC_END -->
 
