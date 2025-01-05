@@ -72,3 +72,9 @@
    style="height: 195px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" 
  />
 </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravxroy&radius=16&theme=github-light&area=true&order=5" height="300" alt="activity-graph graph" />
+</div>
+
+
+
