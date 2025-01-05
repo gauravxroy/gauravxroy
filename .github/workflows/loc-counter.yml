@@ -1,0 +1,40 @@
+name: Update LOC in README
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *" # Run daily
+
+jobs:
+  count-loc:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Step 2: Run cloc-action to count lines of code
+      - name: Count Lines of Code
+        id: loc
+        uses: yobulkdev/cloc-action@v1.0.3
+        with:
+          args: --json
+
+      # Step 3: Update README.md with LOC
+      - name: Update README with LOC
+        run: |
+          LOC=$(cat cloc-output.json | jq '.SUM.code')
+          echo "Lines of Code: $LOC"
+          sed -i '/<!-- LOC_START -->/,/<!-- LOC_END -->/c\<!-- LOC_START -->\nTotal Lines of Code: $LOC\n<!-- LOC_END -->' README.md
+
+      # Step 4: Commit and Push the Updated README
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update LOC in README"
+          git push
