@@ -20,7 +20,7 @@
 - 🏗️ Building Dreams: One Line of Code at a Time
   > "Creating tomorrow's solutions from today's imagination"
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me🙂</h3>
 <p align="left">
 <a href="https://twitter.com/gauravroy021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravroy021" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gaurav-roy-155401218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-roy-155401218" height="30" width="40" /></a>
