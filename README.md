@@ -145,7 +145,7 @@
 - 🏗️ Building for myself: Line of Code
   <div style="display: flex; align-items: center; justify-items:center; gap: 10px; font-size: 16px;">
   <img src="https://img.shields.io/badge/Lines Of Code-%23000000.svg?style=flat&logo=github&logoColor=white" alt="Code Badge" />
-  <span style=" display:flex; font-weight: bold; font-size: 18px; color: #333;">1,234</span>
+  <span style=" display:flex; font-weight: bold; font-size: 18px; color: #333;">11,234</span>
 </div>
 
 
