@@ -1,5 +1,5 @@
 
-<h1  align="center">Hi 👋, I'm Gaurav Roy</h1>
+<h1  align="center">Hey 👋, I'm Gaurav Roy</h1>
 <h3 align="center"><strong>A passionate Software Developer from India, driven by a love for innovation, problem-solving, and building impactful solutions.</strong></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravxroy&label=views&color=8211df&style=flat" alt="gauravxroy" /> </p>
