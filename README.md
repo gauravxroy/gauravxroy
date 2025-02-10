@@ -27,7 +27,7 @@
 <a href="https://www.hackerrank.com/gauravroy021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gauravroy021" height="30" width="40" /></a>
 </p>
 
-# 💻 Tech Stack and Tools:
+# 💻 Tech Stack and Tools:-
 <div align="left">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
