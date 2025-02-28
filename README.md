@@ -25,7 +25,7 @@
 <a href="https://twitter.com/gauravroy021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravroy021" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gaurav-roy-155401218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-roy-155401218" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gauravroy021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gauravroy021" height="30" width="40" /></a>
-  [![Peerlist](https://github-readme-badge.peerlist.io/api/gauravxroy?style=social)](https://peerlist.io/gauravxroy)
+ 
 </p>
 
 # 💻 Tech Stack and Tools:-
