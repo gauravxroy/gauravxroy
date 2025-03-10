@@ -7,7 +7,7 @@
 
 - 🚀 Currently Exploring New Horizons:
   - 🌟 Mastering the **MERN Stack**
-  - 📚 Always Learning, Always Growing
+  - 📚 Always Learning, Always Growing, Always Curious
     
 - 💡 Let's Talk About:
   - ⚛️ Tech Mastery: React, Java & JavaScript Wizardry
