@@ -107,7 +107,7 @@
    alt="Top Languages" 
    style="height: 195px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" 
  />
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gauravxroy&theme=transparent&border_radius=5.1&card_width=400" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gauravxroy&theme=transparent&border_radius=5.1&card_width=400" alt="GitHub Streak" /></a> -->
 </div>
 
 
